@@ -1,0 +1,10 @@
+huggingface_hub==0.23.4 
+langchain==0.2.5 
+langchain_community==0.2.5
+torch==2.3.0+cu121 
+transformers==4.40.1 
+pypdf==4.2.0
+sentence-transformers==3.0.1
+chromadb==0.5.3
+nest-asyncio==1.6.0
+pyngrok==7.1.6
